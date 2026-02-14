@@ -1,0 +1,313 @@
+{
+  "common": {
+    "home": "Home",
+    "map": "Map",
+    "statistics": "Statistics",
+    "gallery": "Gallery",
+    "help": "Help",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Sign In",
+    "logout": "Logout",
+    "register": "Register",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "yes": "Yes",
+    "no": "No",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot password?",
+    "signingIn": "Signing in...",
+    "signingUp": "Signing up...",
+    "dontHaveAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Sign In",
+    "learnMore": "Learn More",
+    "exploreMap": "Explore the Map",
+    "treesTracked": "Trees Tracked",
+    "cities": "Cities",
+    "data": "Data",
+    "open": "Open",
+    "treesPlantedToday": "trees planted today"
+  },
+  "hero": {
+    "headline": "Every Tree Tells a Story",
+    "subheadline": "Kazakhstan's first transparent platform for monitoring urban green spaces",
+    "exploreMap": "Explore the Map",
+    "learnMore": "Learn More"
+  },
+  "problem": {
+    "heading": "The Challenge We're Solving",
+    "amount": "50 Million ₸",
+    "spent": "Spent on Ineffective Systems",
+    "noTransparency": {
+      "title": "No Transparency",
+      "description": "Current tree monitoring systems operate as black boxes. Citizens have no way to verify if trees are actually planted or maintained. The lack of transparent data leads to distrust and makes it impossible to hold anyone accountable for failures."
+    },
+    "noAccountability": {
+      "title": "No Accountability",
+      "description": "Without clear tracking and reporting, there is no way to identify who is responsible when things go wrong. Money disappears into inefficient processes, and no one takes ownership of the outcomes or environmental impact."
+    },
+    "noAccess": {
+      "title": "No Access",
+      "description": "Critical environmental data is locked away in outdated systems. Researchers, urban planners, and concerned citizens cannot access the information they need to make informed decisions about their communities and environment."
+    }
+  },
+  "features": {
+    "heading": "Powerful Tools for Everyone",
+    "interactiveMap": {
+      "title": "Interactive Map",
+      "description": "Explore every tree in Kazakhstan with our intuitive mapping system"
+    },
+    "advancedFilters": {
+      "title": "Advanced Filters",
+      "description": "Find exactly what you need with powerful search and filtering"
+    },
+    "liveStatistics": {
+      "title": "Live Statistics",
+      "description": "Real-time data and analytics at your fingertips"
+    },
+    "easyUpload": {
+      "title": "Easy Upload",
+      "description": "Simple CSV import for bulk tree data entry"
+    },
+    "photoDocumentation": {
+      "title": "Photo Documentation",
+      "description": "Visual proof for every tree planted and maintained"
+    },
+    "exportReports": {
+      "title": "Export Reports",
+      "description": "Generate comprehensive reports in multiple formats"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "treesPlanted": {
+      "title": "Trees Get Planted",
+      "description": "Our team plants trees across Kazakhstan, carefully selecting native species suited to each location's climate and soil conditions."
+    },
+    "mappedRealtime": {
+      "title": "Mapped in Real-Time",
+      "description": "Each tree is instantly recorded with GPS coordinates, photos, and detailed metadata for complete transparency and traceability."
+    },
+    "monitorGrow": {
+      "title": "Monitor & Grow",
+      "description": "Track growth progress, health status, and environmental impact through our interactive dashboard with real-time updates."
+    }
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot password?",
+    "signingIn": "Signing in...",
+    "signingUp": "Signing up...",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "passwordRequirements": {
+      "minLength": "Password must be at least 8 characters long",
+      "uppercase": "Password must contain at least one uppercase letter",
+      "lowercase": "Password must contain at least one lowercase letter",
+      "number": "Password must contain at least one number"
+    },
+    "passwordsDoNotMatch": "Passwords do not match",
+    "loginFailed": "Login failed. Please try again.",
+    "registrationFailed": "Registration failed. Please try again.",
+    "networkError": "Unable to connect to the server. Please ensure the backend server is running on http://localhost:3001",
+    "role": "Role",
+    "roleDescription": "Select your account role. Admin roles require approval.",
+    "roles": {
+      "user": "User",
+      "admin": "Admin",
+      "superAdmin": "Super Admin"
+    }
+  },
+  "map": {
+    "title": "Interactive Map",
+    "exportCSV": "Export CSV",
+    "exporting": "Exporting...",
+    "clearFilters": "Clear Filters",
+    "loginToExport": "Login to export data",
+    "filter": "Filter"
+  },
+  "nav": {
+    "myAdoptions": "My Adoptions",
+    "reportIssue": "Report Issue",
+    "admin": "Admin",
+    "notifications": "Notifications"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "uploadCSV": "Upload CSV",
+    "manualEntry": "Manual Entry",
+    "records": "Records",
+    "users": "Users",
+    "userManagement": "User Management",
+    "manageUserAccounts": "Manage user accounts, roles, and permissions"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "noNotifications": "No notifications",
+    "noUnreadNotifications": "No unread notifications",
+    "noReadNotifications": "No read notifications",
+    "markAllAsRead": "Mark all as read",
+    "markAsRead": "Mark as read",
+    "delete": "Delete",
+    "viewDetails": "View details",
+    "all": "All",
+    "unread": "Unread",
+    "read": "Read"
+  },
+  "userManagement": {
+    "searchByEmail": "Search by email...",
+    "allRoles": "All Roles",
+    "user": "User",
+    "admin": "Admin",
+    "superAdmin": "Super Admin",
+    "applyFilters": "Apply Filters",
+    "noUsersFound": "No users found",
+    "registered": "Registered",
+    "activity": "Activity",
+    "recentAdoptions": "Recent Adoptions",
+    "recentReports": "Recent Reports",
+    "recentComments": "Recent Comments",
+    "auditLog": "Audit Log",
+    "noAdoptions": "No adoptions",
+    "noReports": "No reports",
+    "noComments": "No comments",
+    "noAuditLogs": "No audit logs"
+  },
+  "finalCTA": {
+    "heading": "Ready to Make a Difference?",
+    "exploreMap": "Explore the Map",
+    "registerAdmin": "Register as Admin",
+    "freeAndOpen": "Free and open for everyone"
+  },
+  "footer": {
+    "tagline": "Restoring Kazakhstan's Green Future, One Tree at a Time",
+    "quickLinks": "Quick Links",
+    "connectWithUs": "Connect With Us",
+    "madeWithLove": "Made with",
+    "forKazakhstan": "for Kazakhstan"
+  },
+  "liveStats": {
+    "liveStatistics": "Live Statistics:",
+    "loadingStatistics": "Loading statistics...",
+    "treesTracked": "Trees Tracked",
+    "aliveTrees": "Alive Trees",
+    "survivalRate": "Survival Rate",
+    "cities": "Cities"
+  },
+  "mapPreview": {
+    "heading": "Explore Kazakhstan's Green Spaces",
+    "treesTracked": "Trees Tracked",
+    "realTime": "Real-time",
+    "updates": "Updates"
+  },
+  "about": {
+    "heading": "About Treecovery",
+    "tagline": "Restoring Kazakhstan's Green Future, One Tree at a Time",
+    "ourMission": "Our Mission",
+    "missionDescription": "Treecovery is Kazakhstan's first transparent platform for monitoring urban green spaces. We believe that environmental data should be accessible, verifiable, and actionable for everyone.",
+    "ourVision": "Our Vision",
+    "visionDescription": "A Kazakhstan where every tree planted is tracked, every green space is monitored, and every citizen can verify the environmental impact of urban greening initiatives.",
+    "ourValues": "Our Values",
+    "transparency": "Transparency",
+    "transparencyDesc": "All data is open and verifiable",
+    "accountability": "Accountability",
+    "accountabilityDesc": "Clear tracking of who does what",
+    "accessibility": "Accessibility",
+    "accessibilityDesc": "Data available to everyone",
+    "impact": "Impact",
+    "impactDesc": "Measurable environmental outcomes"
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "subheading": "Have questions? We'd love to hear from you.",
+    "sendMessage": "Send us a Message",
+    "getInTouch": "Get in Touch",
+    "getInTouchDescription": "Whether you have questions about Treecovery, want to contribute data, or need technical support, we're here to help. Reach out through any of the channels below.",
+    "responseTime": "Response Time",
+    "responseTimeDescription": "We typically respond within 24-48 hours. For urgent matters, please use email.",
+    "name": "Name",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send",
+    "sendMessageButton": "Send Message",
+    "sending": "Sending...",
+    "thankYou": "Thank you for your message! We'll get back to you soon.",
+    "sendFailed": "Failed to send message. Please try again later.",
+    "nameRequired": "Name is required",
+    "nameMinLength": "Name must be at least 2 characters",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Invalid email address",
+    "subjectRequired": "Subject is required",
+    "subjectMinLength": "Subject must be at least 3 characters",
+    "messageRequired": "Message is required",
+    "messageMinLength": "Message must be at least 10 characters"
+  },
+  "impactStats": {
+    "heading": "Our Impact in Numbers",
+    "tagline": "Join thousands of users tracking millions of trees across Kazakhstan",
+    "treesTracked": "Trees Tracked",
+    "cities": "Cities",
+    "survivalRate": "Survival Rate",
+    "aliveTrees": "Alive Trees"
+  },
+  "testimonials": {
+    "heading": "Trusted by Government Officials",
+    "subheading": "See what leaders across Kazakhstan are saying about Treecovery"
+  },
+  "adminSection": {
+    "heading": "Built for Administrators",
+    "description": "Powerful tools designed to streamline tree management, from bulk uploads to comprehensive reporting. Everything you need to efficiently track and manage large-scale planting initiatives.",
+    "requestAccess": "Request Admin Access",
+    "csvUpload": "CSV Upload",
+    "csvUploadDesc": "Bulk import tree data",
+    "manualEntry": "Manual Entry",
+    "manualEntryDesc": "Add individual trees with photos",
+    "statusUpdates": "Status Updates",
+    "statusUpdatesDesc": "Track planting progress",
+    "photoManagement": "Photo Management",
+    "photoManagementDesc": "Upload and organize documentation",
+    "exportTools": "Export Tools",
+    "exportToolsDesc": "Generate reports",
+    "userManagement": "User Management",
+    "userManagementDesc": "Control access and permissions",
+    "dashboardTitle": "Admin Dashboard",
+    "dashboardSubtitle": "Tree Management System",
+    "totalTrees": "Total Trees",
+    "pending": "Pending",
+    "thisMonth": "This Month",
+    "plantingProgress": "Planting Progress",
+    "recentUploads": "Recent Uploads"
+  },
+  "newsletter": {
+    "heading": "Stay Updated with Treecovery",
+    "subheading": "Get the latest news about tree planting initiatives, platform updates, and environmental impact reports.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "subscribing": "Subscribing...",
+    "thankYou": "Thank you for subscribing! Check your email for confirmation.",
+    "privacy": "We respect your privacy. Unsubscribe at any time.",
+    "invalidEmail": "Please enter a valid email address",
+    "subscribeFailed": "Failed to subscribe. Please try again.",
+    "subscribeSuccess": "Successfully subscribed to newsletter!"
+  }
+}
