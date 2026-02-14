@@ -1,5 +1,18 @@
+# Dependencies
 node_modules/
-/vendor/
+**/node_modules/
+node/modules/
+vendor/
+**/vendor/
+
+# Python environments
 .venv/
+**/.venv/
+venv/
+**/venv/
+
+# Editor
 .vscode/
+
+# Environment files
 .env
